@@ -1,0 +1,7 @@
+{
+	"require": {
+		"phpmailer/phpmailer": "~5.2",
+		"brianlmoon/gearmanmanager": "2.0.0-alpha",
+		"phpgangsta/googleauthenticator": "dev-master"
+	}
+}
